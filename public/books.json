@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg",
+      "title": "Introduction to Computer Science",
+      "author": "John Smith",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOsvZW5hKYylgdcQ5r6zmJeYEn8FhaH-fXeocTNm4I1cx2gYH1iZX3cdmw_kpsIkH3cw&usqp=CAU",
+      "postedDate": "2024-11-01",
+      "readingTime": 15,
+      "hashtags": ["#ComputerScience", "#Technology", "#Learning"]
+    },
+    {
+      "id": 2,
+      "cover": "https://img.freepik.com/premium-photo/digital-transformation-virtual-computing-technology-background-business-technology_569725-36222.jpg",
+      "title": "The Science of Algorithms",
+      "author": "Emily Johnson",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuUwExMndJ0IioFnec42P_uyo-kr6LJ3LAA&s",
+      "postedDate": "2024-10-28",
+      "readingTime": 12,
+      "hashtags": ["#Algorithms", "#Programming", "#CS"]
+    },
+    {
+      "id": 3,
+      "cover": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-form-cyborg-bot-brain-robotic-hand-digital-brain_127544-853.jpg",
+      "title": "Top 10 Books on Artificial Intelligence",
+      "author": "Michael Brown",
+      "authorImg": "https://npr.brightspotcdn.com/dims4/default/3ce72eb/2147483647/strip/true/crop/1303x1007+0+0/resize/880x680!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkwmu%2Ffiles%2F201411%2Fmichael_brown_graduation.jpg",
+      "postedDate": "2024-10-25",
+      "readingTime": 8,
+      "hashtags": ["#AI", "#MachineLearning", "#TechBooks"]
+    },
+    {
+      "id": 4,
+      "cover": "https://img.freepik.com/premium-vector/isometric-digital-technology-web-banner-analysis-information-big-data-access-storage-distribution-information-management-analysis-vector-illustration_589019-1742.jpg",
+      "title": "Data Structures Simplified",
+      "author": "Sophia Martinez",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdo1Fob7DC-0sB_EKIayIV7sMJ-VnN9TCBIA&s",
+      "postedDate": "2024-10-22",
+      "readingTime": 20,
+      "hashtags": ["#DataStructures", "#ComputerScience", "#Programming"]
+    },
+    {
+      "id": 5,
+      "cover": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg",
+      "title": "The Benefits of Learning to Code",
+      "author": "James Lee",
+      "authorImg": "https://media.licdn.com/dms/image/v2/C5603AQGIRXSONoC71Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637100287174?e=2147483647&v=beta&t=nMqf7ntYYt8PGoyRSwB2gQeO8FlHbAZYVFi0yYSbrrk",
+      "postedDate": "2024-10-20",
+      "readingTime": 10,
+      "hashtags": ["#Coding", "#Programming", "#Technology"]
+    },
+    {
+      "id": 6,
+      "cover": "https://img.freepik.com/free-photo/hackers-uploading-cracks-torrents_482257-85704.jpg",
+      "title": "How to Start with Cybersecurity",
+      "author": "Olivia Davis",
+      "authorImg": "https://cdn.theorg.com/4457c2fa-438e-4083-ae24-95dcd56d20fc_medium.jpg",
+      "postedDate": "2024-10-18",
+      "readingTime": 18,
+      "hashtags": ["#Cybersecurity", "#InfoSec", "#Tech"]
+    },
+    {
+      "id": 7,
+      "cover": "https://img.freepik.com/free-vector/creative-abstract-quantum-illustration_23-2149226910.jpg",
+      "title": "Must-Read Books on Quantum Computing",
+      "author": "William Wilson",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8MpyQTQ1Dvuj7LJRZcO6BFAawXhzs7Fuj_8q-OzhPwM783pz9ewPVSADQGTwmlfwgj4&usqp=CAU",
+      "postedDate": "2024-10-15",
+      "readingTime": 14,
+      "hashtags": ["#QuantumComputing", "#Physics", "#Computing"]
+    },
+    {
+      "id": 8,
+      "cover": "https://img.freepik.com/premium-photo/social-network-hologram-illustration-technology-communication-internet-concept-3d-rendering_269648-19.jpg",
+      "title": "Computer Networks Explained",
+      "author": "Mia Anderson",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5ihGQh7poub9YjGK4p4beLuj2NvW74x_VMadWsbn09m168VgcYCZMKr89Xk4hSYhLcI&usqp=CAU",
+      "postedDate": "2024-10-12",
+      "readingTime": 7,
+      "hashtags": ["#ComputerNetworks", "#IT", "#Networking"]
+    },
+    {
+      "id": 9,
+      "cover": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg",
+      "title": "Exploring Computer Science Careers",
+      "author": "Daniel Taylor",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8agcxN45hL1U0FvoZMwoDO08g_HoDw1hfSjf6PHiks3m_1eegMN9vTkM3rqUA8TqFkc&usqp=CAU",
+      "postedDate": "2024-10-10",
+      "readingTime": 11,
+      "hashtags": ["#CSCareers", "#Technology", "#Future"]
+    },
+    {
+      "id": 10,
+      "cover": "https://img.freepik.com/premium-vector/hud-ui-gui-futuristic-user-interface-screen-elements-set-high-tech-screen-video-game_74231-1209.jpg",
+      "title": "Why Computer Science is Essential",
+      "author": "Grace White",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNQF5qw99ZzOgi-wXgyyj-eXDqo3C_4lq7w&s",
+      "postedDate": "2024-10-05",
+      "readingTime": 16,
+      "hashtags": ["#ComputerScience", "#Education", "#TechFuture"]
+    }
+  ]
+  
